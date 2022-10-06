@@ -30,7 +30,7 @@ Salida:
 Diagrama de la clase
 ![](https://github.com/juanMaAM/T3A1---Ejercicio-01/blob/main/T3A1.png)
 
-
+## Etapa 4. desarrollo de la solucion
 
 
 
