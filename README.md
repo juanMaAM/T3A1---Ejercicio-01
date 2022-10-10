@@ -15,7 +15,7 @@ Salida:
 
 ~~~
 +------------------------------------------------------+
-|- Estudiante: Arturo Salgado Vázquez                  |
+|- Estudiante: Juan Manuel Aburto Murrieta             |
 |- Grupo: 1A Carrera: INGENIERÍA INFORMÁTICA           |
 |-                                                     |
 |- Asignaturas: Calificación                           |
